@@ -3,7 +3,7 @@ package mgarzon.createbest.productcatalog;
 /**
  * Created by Miguel Garzón on 2017-05-07.
  */
-
+//added comment
 public class Product {
     private String _id;
     private String _productname;
